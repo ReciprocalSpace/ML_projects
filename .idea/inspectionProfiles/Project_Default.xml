@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="122" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="NonAsciiCharacters" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="CHECK_FOR_NOT_ASCII_IDENTIFIER_NAME" value="false" />
+      <option name="CHECK_FOR_DIFFERENT_LANGUAGES_IN_IDENTIFIER_NAME" value="false" />
+    </inspection_tool>
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E201" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N803" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  </profile>
+</component>
