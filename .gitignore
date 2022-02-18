@@ -26,6 +26,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 not_on_git
+mri-brain-tumor-detector/mri-dataset
 
 MANIFEST
 
